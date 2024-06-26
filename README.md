@@ -1,4 +1,4 @@
-# Hi, I’m @MonsieurPapi
+# Hi, I’m @Zeleph25
 
 👀 I’m interested in playing chess, reading, and coding.
 
@@ -14,7 +14,7 @@ My name is Adam Bekkar, originally from Morocco, currently living in Lausanne, S
 
 ---
 
-# Salut, je suis @MonsieurPapi
+# Salut, je suis @Zeleph25
 
 👀 Je suis intéressé par le jeu d'échecs, la lecture et la programmation.
 
