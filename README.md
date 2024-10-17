@@ -2,7 +2,7 @@
 
 👀 I’m interested in playing chess, reading, and coding.
 
-🌱 I’m currently learning Rust programming language.
+🌱 I’m currently learning Scala & Rust programming languages.
 
 📫 How to reach me: adam.bekkar@epfl.ch
 
@@ -18,7 +18,7 @@ My name is Adam Bekkar, originally from Morocco, currently living in Lausanne, S
 
 👀 Je suis intéressé par le jeu d'échecs, la lecture et la programmation.
 
-🌱 J'apprends actuellement le langage de programmation Rust.
+🌱 J'apprends actuellement les langages de programmation Scala & Rust.
 
 📫 Comment me contacter : adam.bekkar@epfl.ch
 
